@@ -1,5 +1,5 @@
 {
-    "name": "russchandler/eloquence-mappable",
+    "name": "sofa/eloquence-mappable",
     "description": "Flexible Searchable, Mappable, Metable, Validation and more extensions for Laravel Eloquent ORM.",
     "license": "MIT",
     "support": {
